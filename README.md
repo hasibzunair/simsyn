@@ -7,6 +7,7 @@ Generate visually similar synthetic images using image captions as prompts.
 
 <p align="center">
     <a href="#"><img src="./media/1.png"></a> <br/>
+    <a href="#"><img src="./media/1.png"></a> <br/>
     <em>
     </em>
 </p>
@@ -35,4 +36,4 @@ flowchart TD
 * https://huggingface.co/nlpconnect/vit-gpt2-image-captioning 
 
 ### License 
-MIT
+Whatever licenses the pretrained models have.
