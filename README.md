@@ -13,8 +13,16 @@ Generate visually similar synthetic images using image captions as prompts.
 
 ### How does it works?
 
-Given an input image, an image captioning model is used to first generate a `text` which describes the image. Next, this `text` is used as a prompt to synthesize `images` using Stable Diffusion. 
+Given an input image, a `text` is generated which describes the image via Image Captioning. Next, this `text` is used as a prompt to synthesize `images` via Text-To-Image Generation.
+
+### Todos
+* Prompt blending
+* Morph between multiple image inputs
+* ???
 
 ### Acknowledgements 
 * https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
 * https://huggingface.co/nlpconnect/vit-gpt2-image-captioning 
+
+### License 
+MIT
