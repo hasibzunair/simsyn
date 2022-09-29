@@ -7,7 +7,7 @@ Generate visually similar synthetic images using image captions as prompts.
 
 <p align="center">
     <a href="#"><img src="./media/1.png"></a> <br/>
-    <a href="#"><img src="./media/1.png"></a> <br/>
+    <a href="#"><img src="./media/2.png"></a> <br/>
     <em>
     </em>
 </p>
