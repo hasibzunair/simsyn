@@ -1,4 +1,4 @@
-# SimSyn
+# SimSyn - Generate similar but synthetic images
 
 Generate visually similar synthetic images using image captions as prompts.
 
@@ -28,7 +28,7 @@ flowchart TD
 ### Todos
 * Prompt blending
 * Morph between multiple image inputs
-* ???
+* Some other cool stuff
 
 ### Acknowledgements 
 * https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
