@@ -11,9 +11,9 @@ Generate visually similar synthetic images using image captions as prompts.
     </em>
 </p>
 
-### How does it works?
+### How does it work?
 
-Given an input image, a `text` is generated which describes the image via Image Captioning. Next, this `text` is used as a prompt to synthesize `images` via Text-To-Image Generation.
+Given an input image, a `text` is generated which describes the image via Image Captioning. Next, this `text` is used as a prompt to synthesize new `images` (hopefully similar to the input!) via Text-To-Image Generation.
 
 ### Todos
 * Prompt blending
