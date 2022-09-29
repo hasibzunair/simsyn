@@ -13,7 +13,7 @@ Generate visually similar synthetic images using image captions as prompts.
 
 ### How does it work?
 
-Given an input image, a `text` is generated which describes the image via Image Captioning. Next, this `text` is used as a prompt to synthesize new `images` (hopefully similar to the input!) via Text-To-Image Generation.
+Given an input image, a `text` is generated which describes the image using an Image-To-Text model. Next, this `text` is used as a prompt to synthesize new `images` (hopefully similar to the input!) by using a Text-To-Image generative model. See flow chart below.
 
 ```mermaid
 flowchart TD
