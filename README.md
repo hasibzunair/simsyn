@@ -1,6 +1,6 @@
 # SimSyn - Generate similar but synthetic images
 
-Generate visually similar synthetic images using image captions as prompts.
+Generate visually similar synthetic images using image captions as prompts to an image generation model.
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [![Open In Colab][colab-badge]](https://colab.research.google.com/github/hasibzunair/simsyn/blob/main/generate_images.ipynb)
