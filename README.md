@@ -12,6 +12,13 @@ Generate visually similar synthetic images using image captions as prompts to an
     </em>
 </p>
 
+### Why though?
+
+Some possible use-cases are: 
+
+1. Generate synthetic images/datasets of objects or concepts that are not known (i.e. don't know the prompt) 
+2. Could be a form of art therapy, you give the image as an artist, get to see more images of the same kind 
+
 ### How does it work?
 
 Given an input image, a `text` is generated which describes the image using an Image-To-Text model. Next, this `text` is used as a prompt to synthesize new `images` (hopefully similar to the input!) by using a Text-To-Image generative model. See flow chart below.
