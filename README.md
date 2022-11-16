@@ -34,9 +34,10 @@ flowchart TD
 
 
 ### Todos
+Some things I might try: 
+
 * Prompt blending
 * Morph between multiple image inputs
-* Some other cool stuff
 
 ### Acknowledgements 
 * https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
